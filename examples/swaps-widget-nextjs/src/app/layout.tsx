@@ -21,7 +21,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               className="space-x-2"
               variant="solid"
             >
-              <FontAwesomeIcon size="lg" icon={fa-brands fa-telegram} />
+              <FontAwesomeIcon size="lg" icon={fa-telegram} />
               <span>Join Us!</span>
             </Button>
           </div>
