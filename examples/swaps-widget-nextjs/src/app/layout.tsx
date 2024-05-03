@@ -22,7 +22,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               variant="solid"
             >
               <FontAwesomeIcon size="lg" icon={fa-brands fa-telegram} />
-              <span>Join Us</span>
+              <span>Join Us!</span>
             </Button>
           </div>
 
