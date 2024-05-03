@@ -6,7 +6,7 @@ export default function SwapPage() {
     <div className="flex items-center justify-center h-full">
       <Swap
         title="Swap with MetaWallet"
-        projectId="example-swaps-widget-nextjs"
+        projectId="dog-coin"
         debug
       />
     </div>
