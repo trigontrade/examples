@@ -17,12 +17,12 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         <main className="relative flex flex-col w-full min-h-screen overflow-y-auto">
           <div className="flex justify-end p-6">
             <Button
-              href="https://github.com/swing-xyz/examples"
+              href="#"
               className="space-x-2"
               variant="solid"
             >
-              <FontAwesomeIcon size="lg" icon={faGithub} />
-              <span>Fork on Github</span>
+              <FontAwesomeIcon size="lg" icon={fa-telegram} />
+              <span>Join Us</span>
             </Button>
           </div>
 
